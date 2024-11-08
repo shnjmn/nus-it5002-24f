@@ -1,1 +1,1 @@
-# nus-it5002-24f
+# Q&A Forum for NUS IT5002 (2425s1)
